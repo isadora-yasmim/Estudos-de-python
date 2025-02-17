@@ -1,0 +1,1 @@
+nome=str(print('Digite seu nome completo: '))
